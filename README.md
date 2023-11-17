@@ -1,11 +1,11 @@
 # Tugas Kriptografi
 ## Profil
-| #               | Biodata           |
-| --------------- | ----------------- |
-| **Nama**        | Bilal AlHafidz    |
-| **NIM**         | 312110397         |
-| **Kelas**       | TI.21.A.1         |
-| **Mata Kuliah** | Kriptografi       |
+| #               | Biodata               |
+| --------------- | -----------------     |
+| **Nama**        | Muhamad Suryanegara   |
+| **NIM**         | 312110447             |
+| **Kelas**       | TI.21.A.1             |
+| **Mata Kuliah** | Kriptografi           |
 
 ## Encryption Polyalphabetic Cipher
 <p>Polyalphabetic Cipher adalah sebuah metode enkripsi yang digunakan untuk mengamankan pesan atau teks dengan mengganti karakter-karakter dalam teks asli dengan karakter-karakter lain berdasarkan suatu kunci. <br>Dalam sejarah, sandi polialfabet telah digunakan dalam berbagai konteks untuk menjaga kerahasiaan pesan, termasuk selama Perang Dunia dan masa lalu. Saat ini, teknik enkripsi yang jauh lebih canggih digunakan untuk melindungi komunikasi digital, tetapi pemahaman tentang konsep sandi polialfabet masih penting untuk belajar dasar-dasar kriptografi.</p>
